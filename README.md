@@ -13,15 +13,13 @@
 
 >> Panel & plotly will visualize detailed analysis about housing data for each neighborhood in San Francisco
 
-<img src="Images/Bot.jfif" align="right" width="300px"/>
-<br clear="center"/>
-
+<img src="Images/map2.png" align="right" width="300px"/>
 #
 
 >## What is PyViz?
 > [PyViz](https://pyviz.org/index.html): The PyViz.org website is an open platform for helping users decide on the best open-source (OSS) Python data visualization tools for their purposes, with links, overviews, comparisons, and examples..
 
-<img src="Images/sunburst.png" align="right" width="385px"/>
+<img src="Images/sunburst.png" align="center" width="385px"/>
 
 #
 
