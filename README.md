@@ -16,6 +16,7 @@
 <img src="Images/Bot.jfif" align="right" width="300px"/>
 <br clear="center"/>
 
+#
 
 >## What is PyViz?
 > [PyViz](https://pyviz.org/index.html): The PyViz.org website is an open platform for helping users decide on the best open-source (OSS) Python data visualization tools for their purposes, with links, overviews, comparisons, and examples..
@@ -27,6 +28,8 @@
 >
 <img src="Images/parallel-categories.png" align="right" width="400px"/>
 <br clear="center"/>
+
+#
 
 #
 
