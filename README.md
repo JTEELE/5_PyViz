@@ -34,9 +34,5 @@
 #
 
 ## Resources:
-1. Northwestern NPS:
-https://sps.northwestern.edu/
-
-2. PyViz:
+1. PyViz:
 https://pyviz.org/index.html.
-
