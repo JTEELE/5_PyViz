@@ -36,3 +36,7 @@
 ## Resources:
 1. PyViz:
 https://pyviz.org/index.html.
+2. HVPlot:
+https://hvplot.holoviz.org/reference/index.html.
+3. Plotly:
+https://plotly.com/python/scattermapbox/#mapbox-access-token-and-base-map-configuration.
